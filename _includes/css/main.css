@@ -24,7 +24,8 @@
 	} 
 
 body { 
-	background: #ffffff; 
+	background: #ffebcd
+; 
 	margin: 0; 
 	height: 100%; 
 	color: {{ site.colors.secondary }};
