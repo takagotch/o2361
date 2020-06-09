@@ -48,10 +48,10 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: hello@solidtheme.com
+    - Some Ave, WTC tower 55F,
+    - 23890, New York,USA
+    - Namba, Osaka, JP.
+email: takagotch@facebook.com
 tel: +34 8493-4893
 
 
