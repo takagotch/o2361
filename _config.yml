@@ -19,7 +19,7 @@ colors:  #in hex code if not noted else
   link: "#33004D"
   link_hover: "#FFAC31"
   footer_heading: "#FFF633"
-  footer_content: "#FFCF8A"
+  footer_content: "#33004D"
 
 
 # Making projects separate from posts
