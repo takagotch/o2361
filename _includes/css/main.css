@@ -113,11 +113,11 @@ a:focus {
 }
 
 .navbar-header .navbar-brand {
-	color: #ffebcd;
+	color: #FFF633;
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: #ffebcd;
+	color: #FFF633;
 	font-weight: 700;
 	font-size: 12px;
 }
@@ -141,7 +141,7 @@ a:focus {
 }
 
 .dropdown-menu > li > a {
-	color: #ffebcd;
+	color: #FFF633;
 	font-weight: 700;
 	font-size: 12px;
 }
