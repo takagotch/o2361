@@ -18,7 +18,7 @@ colors:  #in hex code if not noted else
   secondary: "#FFF633" #"#33004D"
   link: "#FFC672"
   link_hover: "#FFAC31"
-  footer_heading: "#ffffff"
+  footer_heading: "#FFF633"
   footer_content: "#FFCF8A"
 
 
